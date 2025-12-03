@@ -2,8 +2,8 @@
 
 > **⚠️ PROJECT UNDER CONSTRUCTION** - This project is currently in active development. Features and design are subject to change.
 
-[![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=flat-square&logo=next.js)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)](https://reactjs.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-0.160-black?style=flat-square&logo=three.js)](https://threejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
@@ -25,8 +25,8 @@ A stunning, interactive portfolio website featuring immersive 3D experiences, sm
 ## 🛠️ Tech Stack
 
 ### Core
-- **[Next.js 14](https://nextjs.org/)** - React framework with App Router
-- **[React 18](https://reactjs.org/)** - UI library
+- **[Next.js 16](https://nextjs.org/)** - React framework with App Router
+- **[React 19](https://reactjs.org/)** - UI library
 - **[TypeScript](https://www.typescriptlang.org/)** - Type safety (optional)
 
 ### 3D & Animation
